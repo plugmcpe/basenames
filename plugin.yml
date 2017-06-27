@@ -1,0 +1,5 @@
+name: basenames
+main: basenames\main
+api: 3.0.0-ALPHA3
+version: 1.0.0
+author: plugmcpe
